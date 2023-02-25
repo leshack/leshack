@@ -66,7 +66,7 @@
 
 ## 🌐 Contribution Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leshack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/leshack/github-readme-activity-graph)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=leshack&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/leshack/github-readme-activity-graph)
 
 
 
